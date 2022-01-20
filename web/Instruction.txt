@@ -1,0 +1,14 @@
+Open main.html.
+Responsibilities:
+1)Aruay Tursyn: main.html 
+                music1.html
+                style.css
+                style1.css
+                  
+2)Dilnura Gabdollaeva: techniques.html
+                       style2.css
+
+
+3)Nurzhas:FocusSigninForm.html
+          StyleOfPage.css 
+
